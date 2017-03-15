@@ -1,0 +1,4 @@
+git remote add origin https://github.com/bsmg1h/WeChatProject.git
+git config remote.origin.url https://github.com/bsmg1h/WeChatProject.git
+git pull origin master
+git push -u origin master
